@@ -14,3 +14,5 @@ mouse also collects 'joy'? harmonic honey is just more efficient; start out with
   and hH must be earned by buying beehives
 
 Users can "trim" flowers to reduce size and harvest economy units
+
+sound off button
