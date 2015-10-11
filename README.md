@@ -1,4 +1,3 @@
-bees to collect tones? beehives?
 chords attract faeries!
 intro with black & white stick figure/claymation walking out of house and tilling garden
 outro with return to house in color
@@ -14,5 +13,15 @@ mouse also collects 'joy'? harmonic honey is just more efficient; start out with
   and hH must be earned by buying beehives
 
 Users can "trim" flowers to reduce size and harvest economy units
+flowers grow
 
 sound off button
+
+
+
+Scrap the just tuning idea for now.
+But do add accidentals.
+
+Play Halleluja - "magic chord" - when a faerie appears?
+
+bees change in appearance when they evolve - make it obvious somehow.

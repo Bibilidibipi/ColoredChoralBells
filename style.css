@@ -1,8 +1,18 @@
 #info {
   width: 800px;
   height: 60px;
-  margin: 50px auto 0 auto;
+  margin: 0 auto 0 auto;
   font-size: 40;
+}
+
+#info ul {
+  margin: 0;
+  padding: 0;
+}
+
+#info li {
+  display: inline-block;
+  margin-right: 50px;
 }
 
 #select {
@@ -34,8 +44,14 @@
   clear: left;
 }
 
+#wave {
+  margin: 0 auto;
+  display: block;
+  clear: left;
+}
+
 #garden {
-  margin: 50px auto;
+  margin: 0 auto;
   display: block;
   clear: left;
 }
