@@ -1,3 +1,7 @@
+#main_content_wrap {
+  background-color: #aaaaff;
+}
+
 #info {
   width: 800px;
   height: 60px;
@@ -16,10 +20,10 @@
 }
 
 #select {
-  margin: auto;
+  margin: 20px auto 0 auto;
   width: 800px;
   height: 60px;
-  background-color: "#aaaaaa";
+  background-color: #aaaaff;
   text-align: justify;
 }
 
@@ -50,8 +54,18 @@
   clear: left;
 }
 
+#info-hh {
+  margin: 20px auto 0 auto;
+  font-size: 200%;
+}
+
+#info-ep {
+  margin: 20px auto 0 auto;
+  font-size: 200%;
+}
+
 #garden {
-  margin: 0 auto;
+  margin: 0 auto 20px auto;
   display: block;
   clear: left;
 }
