@@ -19,6 +19,13 @@
   margin-right: 50px;
 }
 
+#menu {
+  margin: 20px auto 0 auto;
+  width: 800px;
+  height: 60px;
+  background-color: #aaaaff;
+}
+
 #select {
   margin: 20px auto 0 auto;
   width: 800px;
